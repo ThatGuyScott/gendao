@@ -7,7 +7,7 @@
 
 ### This documentation is very basic as this project has been depreciated and not maintained for several years.
 
-### I highly recommend using Spring Data JPA to access your database as this could be prone to SQL Injection.
+### I highly recommend using Spring Data JPA to access your database
 </center>
 
 <hr>

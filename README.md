@@ -5,7 +5,7 @@
 <hr>
 <center>
 
-### This documentation is very basic as this project has been depreciated and not maintained for several years.
+### This documentation is very basic as this project has been deprecated and not maintained for several years.
 
 ### I highly recommend using Spring Data JPA to access your database
 </center>
